@@ -1,0 +1,11 @@
+D:\Pluralsight Courses\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\CODE\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.deps.json
+D:\Pluralsight Courses\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\CODE\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.runtimeconfig.json
+D:\Pluralsight Courses\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\CODE\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.runtimeconfig.dev.json
+D:\Pluralsight Courses\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\CODE\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.dll
+D:\Pluralsight Courses\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\CODE\Movies.Client\bin\Debug\netcoreapp2.1\Movies.Client.pdb
+D:\Pluralsight Courses\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\CODE\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.csprojAssemblyReference.cache
+D:\Pluralsight Courses\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\CODE\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.csproj.CoreCompileInputs.cache
+D:\Pluralsight Courses\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\CODE\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.AssemblyInfoInputs.cache
+D:\Pluralsight Courses\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\CODE\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.AssemblyInfo.cs
+D:\Pluralsight Courses\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\CODE\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.dll
+D:\Pluralsight Courses\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\CODE\Movies.Client\obj\Debug\netcoreapp2.1\Movies.Client.pdb

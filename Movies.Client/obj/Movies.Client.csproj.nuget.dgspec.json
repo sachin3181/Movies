@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Pluralsight Courses\\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\\CODE\\Movies.Client\\Movies.Client.csproj": {}
+  },
+  "projects": {
+    "D:\\Pluralsight Courses\\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\\CODE\\Movies.Client\\Movies.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Pluralsight Courses\\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\\CODE\\Movies.Client\\Movies.Client.csproj",
+        "projectName": "Movies.Client",
+        "projectPath": "D:\\Pluralsight Courses\\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\\CODE\\Movies.Client\\Movies.Client.csproj",
+        "packagesPath": "C:\\Users\\sachi\\.nuget\\packages\\",
+        "outputPath": "D:\\Pluralsight Courses\\Using HttpClient to Consume APIs in .NET Core by Kevin Dockx\\CODE\\Movies.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sachi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "System.Xml.XmlSerializer": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
